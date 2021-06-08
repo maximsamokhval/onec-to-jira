@@ -5,3 +5,8 @@
  * Задачи синхронизируются с Jira Cloud и декомпозируются на под-задачи для постановки в Спринт
 ### Цель
 * Разделить общение с пользователями и постановку задач в разработку, а так же сократить затраты на покупку лицензий Jira Cloud
+
+Возможно, за основу взять репозиторий [Connector](https://github.com/vbondarevsky/Connector) и проект [Tasks](https://github.com/BlizD/Tasks)
+
+![image](https://user-images.githubusercontent.com/24194977/121200640-91a5e380-c87c-11eb-829a-61c806fe3106.png)
+
