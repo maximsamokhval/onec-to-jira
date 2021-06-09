@@ -1,5 +1,10 @@
 # onec-to-jira
 Подсистема управления задачами из 1С в Jira и обновление статусов
+
+![build](https://img.shields.io/github/issues/maximsamokhval/onec-to-jira?color=green&style=plastic)
+![watchers](https://img.shields.io/github/watchers/maximsamokhval/onec-to-jira?style=plastic)
+[![telegram](https://img.shields.io/badge/telegram-channel-blue.svg)](https://t.me/automation_community)
+![last commit](https://img.shields.io/github/last-commit/maximsamokhval/onec-to-jira?style=plastic)
 ### Концепт
  * Бизнес - аналитки ведут общение с заказчиками в 1С базе
  * Задачи синхронизируются с Jira Cloud и декомпозируются на под-задачи для постановки в Спринт
